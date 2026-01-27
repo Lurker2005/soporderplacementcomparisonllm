@@ -2,6 +2,7 @@
 llmvenv/
 venv/
 .env/
+sopplacement/
 
 # Python cache
 __pycache__/
